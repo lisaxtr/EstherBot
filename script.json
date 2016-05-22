@@ -1,5 +1,8 @@
 {
     "HELLO": "Hi there! I'm LisaBot, here to help you learn more about Lisa!\nWhat about Lisa would you like to learn about first? %[Career](postback:career) %[Education](postback:education) %[Interests](postback:interests)",
+    "CAREER": d
+    "EDUCATION": f
+    "INTERESTS": g
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
