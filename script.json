@@ -1,6 +1,5 @@
 {
-    "HELLO": "Hi there! I'm LisaBot, here to help you learn more about Lisa!\nWhat about Lisa would you like to learn about first?",
-    "HELLO": "Hey! I'm LisaBot.",
+    "HELLO": "Hi there! I'm LisaBot, here to help you learn more about Lisa! \n What about Lisa would you like to learn about first?",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
