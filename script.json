@@ -34,7 +34,7 @@
     "WHAT'S SHE READING?":"Right now, Lisa is reading Quite by Susan Cain and Understanding Global Cultures by Martin Gannon & Raj Pillai.\nShe is also reading The Shadow of the Wing by Carlos Ruiz Zafon as she prepares herself for her trip to Spain soon! %[Articles she likes?](postback:interests_articles)",
     "ARTICLES SHE LIKES?": "I think you can tell A LOT about Lisa what she recommends on Medium.\n Check it out here: %[View recommendations](https://medium.com/@lisaxtr/has-recommended)",
     "CURRENT PLAYLIST?": "Currently, she is blasting Somebody Else by The 1975, TALK ME DOWN by Troye Sivan, Cherry Wine by Hozier, and Coldplay's entire catalogue because she is going to go see them in August! %[Favorite artist](postback:interests_favartist) %[Guilty pleasure song](postback:interests_guilty)",
-    "FAVORITE ARTIST": "Michael Jackson! In particular, his Bad album!\n![mj](https://raw.githubusercontent.com/lisaxtr/LisaBot/master/img/mj.gif) %[Interesting fact!](postback:interests_fact)",
+    "FAVORITE ARTIST": "Michael Jackson! In particular, his Bad album!\n![mj](https://raw.githubusercontent.com/lisaxtr/LisaBot/master/img/mj.gif)",
     "GUILTY PLEASURE SONG": "Disney songs and 1950's musical soundtracks\n![disney](https://raw.githubusercontent.com/lisaxtr/LisaBot/master/img/disney.gif)",
     "SUPRISING FACT!": "",
     "CONNECT ME": "",
