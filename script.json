@@ -55,8 +55,15 @@
     "SURE": "Great",
     "HEY LISA": "Hey",
     "LISA?": "",
+    "HI LISA": "Hiya :)",
+    "HELLO LISA": "Helloooooo :)",
+    "HEY LISA": "Hi :)",
+    "IT'S OKAY": "Alright",
+    "IT'S OK": "Alright",
+    "HAHA": "Hehe",
+    "LOL": "![lol](https://raw.githubusercontent.com/lisaxtr/LisaBot/master/img/lol.gif)",
     "HMM": "Take your time to think",
-    "HELLO?": ""
+    "HELLO?": "![hello](https://raw.githubusercontent.com/lisaxtr/LisaBot/master/img/hello.gif)",
     "TALK HERE": "",
     "DISCONNECT": "Roger that, LisaBot is back."
 }
