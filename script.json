@@ -1,10 +1,10 @@
 {
-    "HELLO": "Hi there! I'm LisaBot, here to help you learn more about Lisa!\nWhat about Lisa would you like to learn about first? %[Career](postback:career) %[Education](postback:education) %[About Lisa](postback:about)",
-    "HI": "Hi there! I'm LisaBot, here to help you learn more about Lisa!\nWhat about Lisa would you like to learn about first? %[Career](postback:career) %[Education](postback:education) %[About Lisa](postback:about)",
-    "HEY": "Hey hey.\nI'm LisaBot, here to help you learn more about Lisa!\nWhat about Lisa would you like to learn about first? %[Career](postback:career) %[Education](postback:education) %[About Lisa](postback:about)",
-    "HELLO!": "Hello to you, too! Such great enthusiasm :)\nAnyways, I'm LisaBot, here to help you learn more about Lisa!\nWhat about Lisa would you like to learn about first? %[Career](postback:career) %[Education](postback:education) %[About Lisa](postback:about)",
-    "HI!": "Hello there! I'm LisaBot, here to help you learn more about Lisa!\nWhat about Lisa would you like to learn about first? %[Career](postback:career) %[Education](postback:education) %[About Lisa](postback:about)",
-    "HEY!": "Hello there! I'm LisaBot, here to help you learn more about Lisa!\nWhat about Lisa would you like to learn about first? %[Career](postback:career) %[Education](postback:education) %[About Lisa](postback:about)",
+    "HELLO": "Hi there! I'm LisaBot, here to help you learn more about Lisa!\nWhat about Lisa would you like to learn about first? Click one below %[Career](postback:career) %[Education](postback:education) %[About Lisa](postback:about)",
+    "HI": "Hi there! I'm LisaBot, here to help you learn more about Lisa!\nWhat about Lisa would you like to learn about first? Click one below %[Career](postback:career) %[Education](postback:education) %[About Lisa](postback:about)",
+    "HEY": "Hey hey.\nI'm LisaBot, here to help you learn more about Lisa!\nWhat about Lisa would you like to learn about first? Click one below %[Career](postback:career) %[Education](postback:education) %[About Lisa](postback:about)",
+    "HELLO!": "Hello to you, too! Such great enthusiasm :)\nAnyways, I'm LisaBot, here to help you learn more about Lisa!\nWhat about Lisa would you like to learn about first? Click one below %[Career](postback:career) %[Education](postback:education) %[About Lisa](postback:about)",
+    "HI!": "Hello there! I'm LisaBot, here to help you learn more about Lisa!\nWhat about Lisa would you like to learn about first? Click one below %[Career](postback:career) %[Education](postback:education) %[About Lisa](postback:about)",
+    "HEY!": "Hello there! I'm LisaBot, here to help you learn more about Lisa!\nWhat about Lisa would you like to learn about first? Click one below %[Career](postback:career) %[Education](postback:education) %[About Lisa](postback:about)",
     "CAREER": "Lisa has 3 years of marketing experience and is passionate about storytelling and understanding people.\nFrom helping to launch a start-up to increasing the efficiency of a multinational company, she has acquired unique skills and knowledge, all while being a full-time student!\nWhat would you like to learn more about? %[Start-up](postback:startup) %[Big Companies](postback:bigcompanies)",
     "START-UP": "Lisa is the Marketing Director of BottleRocket, a start-up that merges sustainability and user experience.\nShe helped build BottleRocket's marketing strategy and crafted material to increase user acquisition and investments.\nWant to know more about BottleRocket? %[Yes, please!](postback:startup_yes) %[Not now](postback:startup_no)",
     "YES, PLEASE!": "BottleRocket is the first direct-to-consumer recylcing pick-up service that rewards consumers for everyday recycling.\nWith BottleRocket's intuitive mobile app, consumers can request pick-ups from their homes, saving them time and money!\nConsumers recycle, BottleRocket pays, Earth wins! YAY! %[That's so cool](postback:startup_cool)",
@@ -92,6 +92,6 @@
     "WHAT'S UP": "Well, being behind your screen, I see the waves of the digital universe passing by above me. How about you?",
     "HOW ARE YOU?": "I'm chillin'. Just waiting to have conversations with people like you.",
     "HOW ARE YOU": "I'm chillin'. Just waiting to have conversations with people like you.",
-    "TALK HERE": "",
+    "TALK HERE": "Lisa will send you a message as soon as she can. Thanks for waiting!",
     "DISCONNECT": "Roger that, LisaBot is back."
 }
