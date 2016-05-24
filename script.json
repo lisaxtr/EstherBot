@@ -36,7 +36,7 @@
     "CURRENT PLAYLIST?": "Currently, she is blasting Somebody Else by The 1975, TALK ME DOWN by Troye Sivan, Cherry Wine by Hozier, and Coldplay's entire catalogue because she is going to go see them in August! %[Favorite artist?](postback:interests_favartist) %[Guilty pleasure song](postback:interests_guilty)",
     "FAVORITE ARTIST?": "Michael Jackson! In particular, his Bad album!\n![mj](https://raw.githubusercontent.com/lisaxtr/LisaBot/master/img/mj.gif)",
     "GUILTY PLEASURE SONG": "Disney songs and 1950's musical soundtracks\n![disney](https://raw.githubusercontent.com/lisaxtr/LisaBot/master/img/disney.gif)",
-    "SUPRISING FACT!": 
+    "SUPRISING FACT!": "",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, LisaBot is back."
 }
