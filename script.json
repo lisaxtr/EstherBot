@@ -16,7 +16,7 @@
     "NO, THANK YOU": "That's fine. How about learning more about Lisa's education? %[Onwards to education!](postback:education)",
     "EDUCATION": "x",
     "ONWARDS TO EDUCATION": "x"
-    "INTERESTS": "x",
+    "INTERESTS": "X",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, LisaBot is back."
 }
