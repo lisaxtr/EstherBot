@@ -8,14 +8,14 @@
     "WOW! HOW?": "She spent a lot of time researching website design best practices and educated herself about the latest website design trends.\nShe's always looking to challenge herself and learn new things, even if she must teach herself. %[Onto big companies!](postback:bigcompanies)",
     "NOT NOW":"Ok. What would you like to hear about next? %[Career](postback:career) %[Education](postback:education) %[Interests](postback:interests)",
     "BIG COMPANIES": "Lisa specializes in Online Marketing and Product Marketing, and within these two fields of marketing, she has made major contributions to the companies she has been a part of.\nWould you like to learn about her specific work at each company? %[Yes](postback:bigcompanies_yes) %[No, thank you](postback:bigcompanies_no)",
-    "ONTO BIG COMPANIES!": "Lisa specializes in Online Marketing and Product Marketing, and within these two fields of marketing, she has made major contributions to the companies she has been a part of.\nWould you like to learn about her specific work at each company? %[Yes](postback:bigcompanies_yes) %[No, thank you](postback:bigcompanies_no)"
+    "ONTO BIG COMPANIES!": "Lisa specializes in Online Marketing and Product Marketing, and within these two fields of marketing, she has made major contributions to the companies she has been a part of.\nWould you like to learn about her specific work at each company? %[Yes](postback:bigcompanies_yes) %[No, thank you](postback:bigcompanies_no)",
     "YES": "Which of Lisa's experiences would you like to learn about? %[Dell](postback:dell) %[Spireon](postback:spireon) %[HireRight](postback:hireright)",
     "DELL": "At Dell, Lisa worked with the Media Planning team and helped manage all of the team's online campaigns.\nShe also created an agency evaluation for the Media Planning to use. After conducting the evaluation and analyzing the results, she presented her findings and recommendations the Dell's Marketing leadership team.",
     "SPIREON": "A part of Spireon's Product Marketing team, Lisa managed the creation of customer-facing content by working with cross-functional teams.\nHighlights include developing the messaging for Spireon's lender and rental products, creating content for product brochures and infographics, and managing email campaigns through Marketo.",
     "HIRERIGHT": "Lisa managed HireRight's social media platforms using HootSuite, posting on the various channels daily.\nShe also played a crucial role in the launch of HireRight's website by ensuring that the website was search engine optimized.",
     "NO, THANK YOU": "That's fine. How about learning more about Lisa's education? %[Onwards to education!](postback:education)",
     "EDUCATION": "x",
-    "ONWARDS TO EDUCATION": "x"
+    "ONWARDS TO EDUCATION": "x",
     "INTERESTS": "X",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, LisaBot is back."
