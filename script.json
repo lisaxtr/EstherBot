@@ -1,6 +1,6 @@
 {
     "HELLO": "Hi there! I'm LisaBot, here to help you learn more about Lisa!\nWhat about Lisa would you like to learn about first? %[Career](postback:career) %[Education](postback:education) %[Interests](postback:interests)",
-    "CAREER": "Lisa has 3 years of marketing experience and is passionate about storytelling and understanding consumers.\nFrom helping to launch a start-up to increasing the efficiency of a multinational company, she has acquired unique skills and knowledge in specifically Digital Marketing, Social Media Marketing, and Product Marketing, all while being a full-time student!\nWhat would you like to learn more about? %[Start-up](postback:career_startup) %[Big Companies](postback:career_bigcompanies),
+    "CAREER": "Lisa has 3 years of marketing experience and is passionate about storytelling and understanding people.\nFrom helping to launch a start-up to increasing the efficiency of a multinational company, she has acquired unique skills and knowledge, all while being a full-time student!\nWhat would you like to learn more about? %[Start-up](postback:career_startup) %[Big Companies](postback:career_bigcompanies),
     "START-UP": "x",
     "BIG COMPANIES": "x",
     "EDUCATION": "x",
