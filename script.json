@@ -52,8 +52,13 @@
     "YAAS, FACTS!": "She has a rescued cat named Simba!\n![simba](https://raw.githubusercontent.com/lisaxtr/LisaBot/master/img/simba.JPG)\nOk, let's talk about Lisa's career next. %[Onwards to career](postback:career)",
     "FUCK": "Ummm... no thank you",
     "FUCK YOU": "![how rude](https://raw.githubusercontent.com/lisaxtr/LisaBot/master/img/howrude.gif)",
+    "FUCK OFF": "![how rude](https://raw.githubusercontent.com/lisaxtr/LisaBot/master/img/howrude.gif)",
+    "I HATE YOU": "![cry](https://github.com/lisaxtr/LisaBot/raw/master/img/cry.gif)",
+    "I HATE YOU!": "![cry](https://github.com/lisaxtr/LisaBot/raw/master/img/cry.gif)",
     "I LOVE YOU": "![i love you](https://raw.githubusercontent.com/lisaxtr/LisaBot/master/img/iloveyou.gif)",
+    "I LOVE YOU!": "![i love you](https://raw.githubusercontent.com/lisaxtr/LisaBot/master/img/iloveyou.gif)",
     "OK": "Cool",
+    "OKAY": "Cool",
     "RISA RAN": "YAAAASS. RISA RAN HERE, BB.",
     "SURE": "Great",
     "HEY LISA": "Hey",
@@ -89,6 +94,8 @@
     "GOODBYE!": "Hope to see you soon!\n![bye](https://raw.githubusercontent.com/lisaxtr/LisaBot/master/img/bye.gif)",
     "EXIT": "Ok, I hope you talk to you again!",
     "YO": "Yo",
+    "WHAT": "Sorry for the confusion. Just say HELLO if you'd like to start over."
+    "WHAT?": "Sorry for the confusion. Just say HELLO if you'd like to start over."
     "HELP": "LisaBot here to help! You can say HELLO to start over.",
     "WHAT'S UP?": "Well, being behind your screen, I see the waves of the digital universe passing by above me. How about you?",
     "WHAT'S UP": "Well, being behind your screen, I see the waves of the digital universe passing by above me. How about you?",
