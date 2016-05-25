@@ -48,7 +48,7 @@
     "SURPRISING FACT!": "Lisa has been a vegetarian for over 6 years! She first did it as a personal challenge and has stuck with it ever since. %[Cool! Another fact!](postback:interests_facttwo)",
     "COOL! ANOTHER FACT!":"Here's a pretty cool one.\nShe collects quotes. A few of her favorites:\nPessimism narrows our focus, whereas positive emotions widen our attention and our receptiveness to the new and unexpected.\nIf you're lucky enough to do well, it's your responsibility to send the elevator back down.\nJust remember the 3 D's (Dedication, Determination, and Discipline), and you'll achieve your Dreams! %[I DEMAND MORE](postback:interests_factthree)",
     "I DEMAND MORE": "Alright alright! How about this?\nVisiting Puerto Rico's Bioluminescent Bay is on her bucker list.\n![puerto rico](https://raw.githubusercontent.com/lisaxtr/LisaBot/master/img/puerto-rico.jpg)\nHow about another fact? %[YAAS, FACTS!](postback:interests_factfour)",
-    "YAAS, FACTS!": "She has a rescued cat named Simba!\nOk, let's talk about Lisa's education next. %[Onwards to career](postback:career)",
+    "YAAS, FACTS!": "She has a rescued cat named Simba!\n![simba](https://raw.githubusercontent.com/lisaxtr/LisaBot/master/img/simba.JPG)\nOk, let's talk about Lisa's education next. %[Onwards to career](postback:career)",
     "FUCK": "Ummm... no thank you",
     "FUCK YOU": "![how rude](https://raw.githubusercontent.com/lisaxtr/LisaBot/master/img/howrude.gif)",
     "I LOVE YOU": "![i love you](https://raw.githubusercontent.com/lisaxtr/LisaBot/master/img/iloveyou.gif)",
